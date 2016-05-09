@@ -1,0 +1,1 @@
+g++     -Wno-deprecated     CMakeFiles/main.dir/main.cpp.o  -o ../../bin/main  -L/home/hai/Programs/slam/lib -rdynamic 

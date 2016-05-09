@@ -1,0 +1,2 @@
+/home/hai/Programs/slam/build/src/CMakeFiles/generate_pointcloud.dir
+/home/hai/Programs/slam/build/src/CMakeFiles/main.dir
